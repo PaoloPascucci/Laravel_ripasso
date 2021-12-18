@@ -8,10 +8,19 @@
     <title>Ripasso</title>
     <!-- STYLE -->
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
+    <style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    </style>
 </head>
 
 <body>
-    <button type="button" class="btn btn-primary">Ciao </button>
+    @include('Layouts.header')
+    @include('Layouts.Main')
+    @include('Layouts.Footer')
 </body>
 
 </html>
