@@ -37,6 +37,7 @@
 .navbar {
     z-index: 99999;
     position: fixed;
+    background-color: #d3d3d32e;
 }
 
 .header_input {
@@ -57,14 +58,15 @@ input {
 }
 
 .nav-link {
-    color: #000;
+    color: #fff;
     font-size: 1rem;
     font-weight: bold;
+    text-transform: uppercase;
 
 }
 
 .nav-link:hover {
-    color: red;
+    color: #0d6efd;
 }
 
 .nav {
