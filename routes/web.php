@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('app');
+       $db = config('db');
+    return view('app',compact('db'));
 })->name('app');

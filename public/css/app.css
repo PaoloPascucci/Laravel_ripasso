@@ -17369,9 +17369,6 @@ readers do not read off random characters that represent icons */
 }
 
 .wrapper {
-  position: relative;
-}
-.wrapper .str {
   background-image: url("../img/jumbo.jpg");
   background-size: cover;
   background-repeat: no-repeat;

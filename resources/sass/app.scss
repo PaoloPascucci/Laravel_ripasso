@@ -5,13 +5,12 @@
 @import '~@fortawesome/fontawesome-free/scss/fontawesome';
 
 .wrapper {
-    position: relative;
+    // position: relative;
+    background-image: url('../img/jumbo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
 
-    .str {
-        background-image: url('../img/jumbo.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-        height: 100vh;
-    }
 }
+
