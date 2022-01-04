@@ -17368,10 +17368,10 @@ readers do not read off random characters that represent icons */
   width: auto;
 }
 
-.wrapper {
+body {
   background-image: url("../img/jumbo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100vh;
+  height: 100%;
 }

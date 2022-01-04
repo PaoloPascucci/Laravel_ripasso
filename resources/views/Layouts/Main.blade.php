@@ -2,13 +2,9 @@
     <div class="container-fluid wrapper">
         <div class="row">
             <div class="str">
-                <div class="cacca row justify-content-evenly">
-                    <div class="mb-3">
-                        <label for="" class="form-label"></label>
-                        <input type="text" placeholder="Inserisci nome personaggio">
-                    </div>
+                <div class="cacca row justify-content-center align-items-center ">
                     @foreach($db as $index => $data)
-                    <div class="card">
+                    <div class="card g-3 mx-5">
                         <img src="{{$data['image']}}" alt="">
                         <div class="card-body">
                             <h4 class="card-title">{{$data['Name']}}</h4>
@@ -31,7 +27,7 @@
 }
 
 .card img {
-    height: 500px;
+    height: 350px;
     width: 200px;
 }
 </style>

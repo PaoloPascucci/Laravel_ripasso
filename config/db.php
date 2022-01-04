@@ -19,4 +19,41 @@ return [
             "Species" => "Terrestre",
             "image" => "https://upload.wikimedia.org/wikipedia/en/5/58/Beth_Smith.png"
         ],
+                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],
+                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],
+                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],
+                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],
+                        [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],                [
+            "Name" => "Morty Smith",
+            "Species" => "Terrestre",
+            "image" => "https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png"
+        ],
     ];

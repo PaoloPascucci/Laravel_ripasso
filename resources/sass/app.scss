@@ -4,13 +4,12 @@
  @import '~@fortawesome/fontawesome-free/scss/solid';
 @import '~@fortawesome/fontawesome-free/scss/fontawesome';
 
-.wrapper {
+body{
     // position: relative;
     background-image: url('../img/jumbo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
-
+    height: 100%;
 }
 
